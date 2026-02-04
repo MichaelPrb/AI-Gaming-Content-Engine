@@ -31,9 +31,7 @@ Implements a Content-Based Filtering system to recommend games based on the enri
 ├── data/
 │   ├── raw_games.csv           # Initial input data
 │   └── enriched_games.csv      # AI-processed data (Result of Module 2)
-├── docs/
-│   └── game_event_logic.pptx   # Presentation for Module 1 Logic
-├── modules/
+├── modules/c.
 │   ├── game_enrichment.py      # Script for GenAI Metadata processing
 │   └── recommender_engine.py   # Script for ML Recommendations
 ├── .env                        # API Keys (Not uploaded)
