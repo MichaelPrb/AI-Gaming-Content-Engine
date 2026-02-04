@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+langchain-google-genai
+langchain
+tqdm
+scikit-learn
